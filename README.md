@@ -4,4 +4,5 @@
 - 🔭  I’m currently working on python pygame project
 - 🌱 I’m currently learning Python and C
 <br>
-https://jankrk.github.io/
+- GitHub Pages https://jankrk.github.io/
+- Azure Static Web Apps https://brave-beach-0b7013103.azurestaticapps.net
